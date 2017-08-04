@@ -1,4 +1,4 @@
-### ExprTargetDB
+ExprTargetDB
 =====
 
 ### An Integrative Approach to Predicting Human MicroRNA Targets
